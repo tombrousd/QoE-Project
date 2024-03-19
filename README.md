@@ -16,7 +16,8 @@ Voici un aperçu des fonctionnalités clés :
 
 1. Cloner le dépôt GitHub : `git clone https://github.com/tombrousd/QoE-Project`
 2. Installer les dépendances : `pip install -r requirements.txt`
-3. Lancer les scripts
+3. Connecter le casque OpenBCI à son ordinateur
+4. Lancer le script app.py et lancer un jeu en parallèle. Vous aurez ainsi une prédiction de votre QoE visible toutes les 1min. 
 
 ## Structure du Projet
 
